@@ -1,0 +1,13 @@
+{
+	"name": "Master's Helper",
+	"description": "Drag and drop initiative tracker",
+	"version": "0.1",
+	"manifest_version": 2,
+	"app": {
+		"background": {
+			"scripts": ["js/background.js",
+					"js/draggable.js"]
+		}
+	},
+	"icons": {"128": "images/d20.jpg"}
+}
