@@ -7,9 +7,13 @@ This is a dynamic initiative organizer. It allows the user to:
 
 Status Update
 ----------------------
+10 Jan 2019
++ Red box recognizes a long touch. May want to change this to identify a double-tap.  Chrome app has a pop-up on a
+long touch already.
+
+
 8 Jan 2019
 + Red box appears and can be "touched" and moved up/down/left/right along the canvas. It will go off the canvas too.
-+ 
 
 Notes on Chrome App building
 Manifest.json

@@ -5,8 +5,7 @@
 	"manifest_version": 2,
 	"app": {
 		"background": {
-			"scripts": ["js/background.js",
-					"js/draggable.js"]
+			"scripts": ["js/background.js"]
 		}
 	},
 	"icons": {"128": "images/d20.jpg"}
